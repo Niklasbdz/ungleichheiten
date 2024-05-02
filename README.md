@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ungleichheiten zwischen Ländern</title>
+Ungleichheiten zwischen Ländern
 </head>
 <h1> Ungleichheiten zwischen ländern </h1>
 
